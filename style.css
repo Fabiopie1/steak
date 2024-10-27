@@ -1,0 +1,39 @@
+body{
+  color: blue;
+  background: #191818 url(keyboard-5017973_1920.jpg) center bottom/cover no-repeat;
+    margin: 0;
+ }
+header{
+height: 100px;
+box-shadow: 0px 19px 34px 11px rgba(0,0,0,0.39);
+display: flex;
+justify-content: center;
+align-items: center;
+}
+header a {
+ margin-right: 16px;
+ text-decoration: none;
+ color: rgb(15, 236, 89);
+}
+
+header a:hover{
+ color: rgba(0, 0, 0, 0.322);
+}
+
+.Container{
+ margin-top: 100px;
+ display: flex;
+  justify-content: center
+}
+
+.container a{
+ background-color: blueviolet;
+ color: rgba(0, 0, 0, 0.726);
+ text-decoration: none;
+ padding: 10px;
+ border: 1px solid black;
+}
+
+.container a:hover {
+ background-color: rgba(164, 102, 221, 0.432);
+}
